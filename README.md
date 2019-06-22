@@ -1,4 +1,6 @@
-# lacc_to_csv
+## Los Angeles Closed Caption News Data Archive to CSV
+
+Convert the text files from the infamous LA Closed-Caption Television News data---infamous because it was part of the LaCour scandal--- to a CSV.
 
 ## Description
 
